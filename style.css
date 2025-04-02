@@ -28,13 +28,20 @@ body{
 li{
   text-align: left ;
 }
-ul{ 
-  display: ;
-  vertical-align: top;
-  width: 20%;
-  scroll-margin-left:15%;
+.beneficios-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 20px;
 }
-.imgar{
-  width: 100%;
-  padding-left: 500px;
+
+ul {
+  width: 30%;
+  margin: 0;
+}
+
+.imgar {
+  width: 60%;
+  height: auto;
+  padding: 0;
 }
