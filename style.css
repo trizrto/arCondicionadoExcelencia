@@ -1,4 +1,40 @@
-html {
-  height: 100%;
+p{
+  font-size: 20px;
+  text-align: center;
+}
+
+#missao{
+  font-size: 25px;
+}
+
+#missao-destaque{
+  color: #2f6690;
+}
+
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+body{
+  background-color: #d9dcd6;
+}
+.introducao{
+  background-color: #bdd5ea;
+}
+
+
+li{
+  text-align: left ;
+}
+ul{ 
+  display: ;
+  vertical-align: top;
+  width: 20%;
+  scroll-margin-left:15%;
+}
+.imgar{
   width: 100%;
+  padding-left: 500px;
 }
