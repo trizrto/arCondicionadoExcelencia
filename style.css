@@ -8,7 +8,7 @@ p{
 }
 
 #missao-destaque{
-  color: #1C579E;
+  color: #3A0CA3;
 }
 
 h1{
@@ -18,10 +18,10 @@ h2{
   text-align: center;
 }
 body{
-  background-color: #EDEDE9;
+  background-color: #D8E1E9;
 }
 .introducao{
-  background-color: #BDE0FE;
+  background-color: #86BBD8;
   border-radius: 10px;
   margin: 20px;
 }
@@ -35,7 +35,7 @@ li{
   align-items: flex-start;
   gap: 20px;
   padding: 20px;
-  background-color: #BDE0FE;
+  background-color: #6b9cd1;;
   border-radius: 10px;
   margin: 20px;
 }
@@ -53,6 +53,11 @@ ul {
 }
 #titulo{
   color: #3D348B
-
   
+}
+#benef{
+  color: #3D348B
+}
+#sobre{
+  color: #4e148c
 }
