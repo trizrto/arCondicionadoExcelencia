@@ -8,7 +8,7 @@ p{
 }
 
 #missao-destaque{
-  color: #2f6690;
+  color: #1C579E;
 }
 
 h1{
@@ -18,17 +18,17 @@ h2{
   text-align: center;
 }
 body{
-  background-color: #d9dcd6;
+  background-color: #EDEDE9;
 }
 .introducao{
-  background-color: #bdd5ea;
+  background-color: #BDE0FE;
 }
 
 
 li{
   text-align: left ;
 }
-.beneficios-container {
+.beneficios {
   display: flex;
   align-items: flex-start;
   gap: 20px;
@@ -36,12 +36,17 @@ li{
 }
 
 ul {
-  width: 30%;
+  width: 25%;
   margin: 0;
 }
 
 .imgar {
-  width: 60%;
+  width: 40%;
   height: auto;
   padding: 0;
+}
+#titulo{
+  color: #3D348B
+
+  
 }
