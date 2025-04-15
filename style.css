@@ -22,6 +22,8 @@ body{
 }
 .introducao{
   background-color: #BDE0FE;
+  border-radius: 10px;
+  margin: 20px;
 }
 
 
