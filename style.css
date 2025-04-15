@@ -33,6 +33,9 @@ li{
   align-items: flex-start;
   gap: 20px;
   padding: 20px;
+  background-color: #BDE0FE;
+  border-radius: 10px;
+  margin: 20px;
 }
 
 ul {
